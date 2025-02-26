@@ -1,6 +1,11 @@
 # Hello, I'm Shakti Singh 
 
 ## My Designs
+## Youtube Thumbnail
+[Uploading Travel.pdf…]()
+
+
+## Bhai Dooj
 ![bhai dooj](https://github.com/user-attachments/assets/64e8a90c-0898-49da-86d9-bc6e56ea67af)
 
 ## Ganesh Chaturthi
