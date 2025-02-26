@@ -2,7 +2,10 @@
 
 ## My Designs
 ## Youtube Thumbnail
-[Uploading Travel.pdf…]()
+![Travel_page-0002](https://github.com/user-attachments/assets/3df26c79-ef01-48e5-9914-03af6813acc4)
+
+## Youtube Thumbnail
+![Travel_page-0001](https://github.com/user-attachments/assets/7baa4493-2395-4993-b7f7-2b03bd9e6298)
 
 
 ## Bhai Dooj
